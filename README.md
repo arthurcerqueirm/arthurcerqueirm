@@ -11,7 +11,7 @@
   <img align="center" alt="arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- <div>
   <img align="right" alt="arthur-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/822937212042739722/900826175230844928/kirito-sao.gif">
  </div>
+ 
+ ##
